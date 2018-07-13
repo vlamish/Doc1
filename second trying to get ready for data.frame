@@ -1,0 +1,3 @@
+ggplot() +
+    ggtitle('Population dynamics', subtitle = 'craccivora') +
+    geom_line ()
