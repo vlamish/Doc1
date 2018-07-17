@@ -1,3 +1,6 @@
+library(ggplot2)
+library(scales)
+
 df.pest <- data.frame(population = c(100,200, 300), time = c("2018-05-01", "2018-05-15", "2018-07-01"))
 
 
