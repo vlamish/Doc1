@@ -1,6 +1,6 @@
 population <- c(100, 150, 250, 300)
 time <- c(1, 2, 3, 4)
-df <- data.frame(population, date)
+df <- data.frame(population, time)
 
 names(df) <- c("craccivora", "days")
 
